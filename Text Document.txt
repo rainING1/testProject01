@@ -4,3 +4,5 @@ localBranch
 Rebase
 Iss63
 Iss64
+master
+remote
